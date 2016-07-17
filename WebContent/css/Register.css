@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+/**
+ * 	Register And Login JSP css
+ */
+/* .Registform{
+	margin-left:200px;
+	margin-top: 100px;
+} */
+
+.registerfont{
+	float:left;
+	margin-left:30px;
+}
+
+.loginfont{
+	float:left;
+	margin-left: 0px;
+}
+
+.myregistercss{
+	margin-left: -30px;
+	width:60%;
+}
+
+.mylogincss{
+	margin-left: -30px;
+	width:60%;
+}
+
+.registerSelectcss{
+	margin-left:75px;
+}
